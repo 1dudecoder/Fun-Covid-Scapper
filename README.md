@@ -17,7 +17,9 @@ Using
  ### `node script.js ` 
 on terminal .
 
+Then go to hackathon/hackathon dir
 
+Run 
 ### `npm start`
 
 Runs the app in the development mode.\
