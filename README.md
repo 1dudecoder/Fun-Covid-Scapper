@@ -5,7 +5,7 @@
 ![Screenshot (315)](https://user-images.githubusercontent.com/51919649/117546312-73638280-b047-11eb-99ec-97d8c848cb98.png)
 
 
-Site :- https://Fun-Covid-Scapper.github.io/my-app
+Site :- https://1dudecoder.github.io/Fun-Covid-Scapper/
 
 # Getting Started with Create React App
 
