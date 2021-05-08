@@ -9,8 +9,11 @@ In the project directory, you can run:
 ## How To Run
 
 First go to src/myjson/
-then delete all Json file and 
-run script.js ## 'node script.js'  on terminal .
+
+Then delete all Json file and 
+run script.js 
+
+## 'node script.js'  on terminal .
 
 
 ### `npm start`
