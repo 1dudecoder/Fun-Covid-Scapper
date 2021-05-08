@@ -1,0 +1,37 @@
+.allindia{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content: center;
+    justify-content: space-between;
+    font-size: 30px;
+}
+
+
+.covidstatus{
+    display: flex;
+    flex-direction: row;
+    /* background-color: lightpink; */
+    justify-content: center;
+    justify-content: space-evenly;
+    height:fit-content;
+
+}
+
+.allstatename{
+    height: 642px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+}
+
+
+.allstateinfo{
+    height: 642px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+
+}   
