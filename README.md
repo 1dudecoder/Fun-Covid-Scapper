@@ -13,7 +13,9 @@ First go to src/myjson/
 Then delete all Json file and 
 run script.js 
 
-## 'node script.js'  on terminal .
+Using
+ ### `node script.js ` 
+on terminal .
 
 
 ### `npm start`
