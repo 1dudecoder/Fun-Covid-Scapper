@@ -6,6 +6,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## How To Run
+
+First go to src/myjson/
+then delete all Json file and 
+run script.js ## 'node script.js'  on terminal .
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
